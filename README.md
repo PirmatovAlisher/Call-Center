@@ -1,7 +1,6 @@
 # Call-Center
 Call Center on Blazor
 
-Since it is commercial project, I can not reveal the code
 
 
 Index page for Call center agent:
